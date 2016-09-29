@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 813597253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0777643f6e25745257df56e2e052d7d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/MeteorFramework/Examples/Textures/Prompt/1.png
+Dependencies: []
